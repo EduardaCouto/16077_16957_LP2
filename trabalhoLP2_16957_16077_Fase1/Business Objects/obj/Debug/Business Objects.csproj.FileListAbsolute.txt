@@ -1,0 +1,2 @@
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Business Objects\obj\Debug\Business Objects.csprojAssemblyReference.cache
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Business Objects\obj\Debug\Business Objects.csproj.CoreCompileInputs.cache

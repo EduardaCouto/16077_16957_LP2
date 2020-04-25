@@ -1,0 +1,2 @@
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Presentation Layer\obj\Debug\Presentation Layer.csprojAssemblyReference.cache
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Presentation Layer\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache

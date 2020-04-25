@@ -1,0 +1,7 @@
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Business Rules\bin\Debug\Business Rules.exe.config
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Business Rules\bin\Debug\Business Rules.exe
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Business Rules\bin\Debug\Business Rules.pdb
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Business Rules\obj\Debug\Business Rules.csprojAssemblyReference.cache
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Business Rules\obj\Debug\Business Rules.csproj.CoreCompileInputs.cache
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Business Rules\obj\Debug\Business Rules.exe
+C:\Users\Geral\Desktop\2 semestre\ConsoleApp1\Business Rules\obj\Debug\Business Rules.pdb
