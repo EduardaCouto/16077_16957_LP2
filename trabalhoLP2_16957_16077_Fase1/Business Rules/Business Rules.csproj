@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pessoas.cs" />
+    <Compile Include="Rules.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -57,6 +57,10 @@
     <ProjectReference Include="..\Data Layer\Data Layer.csproj">
       <Project>{1ea464e1-a201-4813-a816-be3ee2ff0dcc}</Project>
       <Name>Data Layer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Validations\Validations.csproj">
+      <Project>{30b16dcc-b07e-4d6f-acbf-ecd58a20fa45}</Project>
+      <Name>Validations</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

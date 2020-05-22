@@ -67,6 +67,7 @@ namespace Presentation_Layer
                         genero = Console.ReadLine();
                         Console.WriteLine("\nNumero de Utente");
                         numUtente = Console.ReadLine();
+                        Console.WriteLine("Estado do paciente infetado");
                         Console.Clear();
 
 
@@ -98,7 +99,7 @@ namespace Presentation_Layer
                     Console.WriteLine("\tATUALIZAR DADOS");
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.WriteLine("");
-                    Console.WriteLine("\t1 - Consultar numero total de casos infetados);
+                    Console.WriteLine("\t1 - Consultar numero total de casos infetados");
                     Console.WriteLine("\t2 - Consultar numero de casos infetados por concelho");
                     Console.WriteLine("\t3 - Consultar numero total de pacientes recuperados");
                     Console.WriteLine("\t4 - Consultar numero de pacinetes recuperados por concelho");

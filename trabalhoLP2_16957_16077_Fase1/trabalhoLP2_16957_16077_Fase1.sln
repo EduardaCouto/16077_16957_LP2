@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Rules", "Business 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Objects", "Business Objects\Business Objects.csproj", "{13AB662E-B70A-4A23-9AF0-4B3BE5E8ED4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validations", "Validations\Validations.csproj", "{30B16DCC-B07E-4D6F-ACBF-ECD58A20FA45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{13AB662E-B70A-4A23-9AF0-4B3BE5E8ED4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13AB662E-B70A-4A23-9AF0-4B3BE5E8ED4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13AB662E-B70A-4A23-9AF0-4B3BE5E8ED4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B16DCC-B07E-4D6F-ACBF-ECD58A20FA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B16DCC-B07E-4D6F-ACBF-ECD58A20FA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B16DCC-B07E-4D6F-ACBF-ECD58A20FA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B16DCC-B07E-4D6F-ACBF-ECD58A20FA45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

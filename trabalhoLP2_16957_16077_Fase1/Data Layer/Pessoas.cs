@@ -29,6 +29,11 @@ namespace Data_Layer
         }
         #endregion
 
+        public static bool RegistarPessoa(Pessoa p)
+        {
+            
+
+        }
         #region Metodos
         protected override void EscreveFicheiro()
         {

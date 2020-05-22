@@ -16,8 +16,8 @@ namespace Business_Objects
         #region Atributos
         char genero;
         string nome;
-        int idade, nmrUtente, tipoCaso, concelho;
-        //irá ser tipoCaso: 1- recuperado 2- infetado e 3 - morto 
+        int idade, nmrUtente, concelho;
+         
         #endregion
 
         #region Propriedades
@@ -25,8 +25,6 @@ namespace Business_Objects
         public string Nome { get => nome; set => nome = value; }
         
         public char Genero { get => genero; set => genero = value; }
-
-        public int TipoCaso { get => tipoCaso; set => tipoCaso = value; }
 
         public int Concelho { get => concelho; set => concelho = value; }
 
@@ -66,7 +64,7 @@ namespace Business_Objects
             this.Idade = default(int);
             this.NmrUtente = default(int);
             this.Concelho = default(int);
-            this.TipoCaso = default(int);
+          
         }
         
         ///<summary>
@@ -85,7 +83,7 @@ namespace Business_Objects
         this.Idade = idade;
         this.NmrUtente = nmrUtente;
         this.Concelho = concelho;
-        this.TipoCaso = tipoCaso;
+        
         }
         #endregion
     }
